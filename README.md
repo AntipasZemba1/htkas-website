@@ -89,7 +89,7 @@ Or just double-click the `index.html` file after downloading.
 
 For professional inquiries:
 
-* 📧 Email: [odaviakaseya23@gmail.com](mailto:odaviakaseya23@gmail.com)
+* 📧 Email: [Gmail](mailto:odaviakaseya23@gmail.com)
 * 💼 LinkedIn: [Hodavia Kaseya](https://www.linkedin.com/in/hodavia-kaseya-a66a781a6)
 
 ---
