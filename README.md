@@ -103,7 +103,5 @@ Feel free to reference structure or layout, but do not copy personal content or 
 
 ## 🙏 Acknowledgments
 
-Inspired by: https://www.youtube.com/watch?v=ldwlOzRvYOU 
-             And a dedication to scientific inquiry and the pursuit of academic excellence.
 
 Thank you for visiting!
