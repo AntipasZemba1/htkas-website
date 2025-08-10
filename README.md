@@ -4,6 +4,8 @@ Welcome to the personal portfolio of **Hodavia Kaseya** — an accomplished rese
 
 This responsive website serves as an interactive presentation of Hodavia’s academic background, technical skills, research posters, and professional experience.
 
+Visit: https://hodaviakaseya.netlify.app/
+
 ---
 
 ## 🧠 Overview
